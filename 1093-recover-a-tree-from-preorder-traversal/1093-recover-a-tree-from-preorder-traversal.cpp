@@ -11,7 +11,8 @@
  */
 class Solution {
 public:
-    TreeNode* find(string &s,int &index,int depth){
+    int index=0;
+    TreeNode* find(string &s,int depth){
         if(index>=s.size()) return NULL;
         int j=index;
         int dashCount=0;
@@ -29,12 +30,11 @@ public:
             index++;
         }
         TreeNode* root= new TreeNode(stoi(num));
-        root->left=find(s,index,depth+1);
-        root->right=find(s,index,depth+1);
+        root->left=find(s,depth+1);
+        root->right=find(s,depth+1);
         return root;
     }
     TreeNode* recoverFromPreorder(string traversal) {
-        int i=0;
-        return find(traversal,i,0);
+        return find(traversal,0);
     }
 };
