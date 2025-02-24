@@ -26,7 +26,6 @@ int ans=0;
        {
            cost+=amount[node]/2;
        }
-       // cout<<node<<"  "<<cost<<endl;
        if(node!=0&&dp[node].size()==1)
        {
            ans=max(ans,cost);
