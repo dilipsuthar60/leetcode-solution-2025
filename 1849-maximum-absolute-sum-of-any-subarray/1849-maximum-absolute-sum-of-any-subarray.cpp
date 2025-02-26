@@ -2,15 +2,14 @@ class Solution {
 public:
     int maxAbsoluteSum(vector<int>& nums) {
         int n=nums.size();
-        int currentSum1=0,currentSum2=0;
-        int maximumPositiveSum=0,maximumNegativeSum=0;
+        int dp[n+1][2];
+        memset(dp,0,sizeof(dp));
+        int ans=0;
         for(int i=0;i<n;i++){
-            currentSum1=max(currentSum1+nums[i],nums[i]);
-            currentSum2=min(currentSum2+nums[i],nums[i]);
-
-            maximumPositiveSum=max(maximumPositiveSum,currentSum1);
-            maximumNegativeSum=min(maximumNegativeSum,currentSum2);
+            dp[i+1][0]=min(dp[i][0]+nums[i],nums[i]);
+            dp[i+1][1]=max(dp[i][1]+nums[i],nums[i]);
+            ans=max({ans,abs(dp[i+1][0]),abs(dp[i+1][1])});
         }
-        return max(abs(maximumNegativeSum),maximumPositiveSum);
+        return ans;
     }
 };
