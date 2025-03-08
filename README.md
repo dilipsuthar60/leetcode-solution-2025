@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3771-select-k-disjoint-special-substrings) |
 ## Backtracking
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2478-longest-nice-subarray) |
 ## Two Pointers
 |  |
