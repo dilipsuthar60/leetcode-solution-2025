@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1160-letter-tile-possibilities) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Array
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3760-assign-elements-to-groups-with-constraints) |
 ## Sorting
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2610-closest-prime-numbers-in-range) |
+## Binary Search
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
