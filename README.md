@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2690-house-robber-iv](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3643-zero-array-transformation-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3643-zero-array-transformation-ii) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3760-assign-elements-to-groups-with-constraints) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2690-house-robber-iv](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3643-zero-array-transformation-ii) |
 ## Prefix Sum
 |  |
