@@ -2,8 +2,8 @@ class Solution {
 public:
     bool find(vector<int>&nums,long long time,int cars){
         for(int i=0,n=nums.size();i<n;i++){
-            long long temp=sqrt(time/nums[i]);
-            cars-=temp;
+            long long processingCar=sqrt(time/nums[i]);
+            cars-=processingCar;
             if(cars<=0) return true;
         }
         return false;
