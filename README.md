@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0139-word-break) |
+| [0778-reorganize-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0778-reorganize-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1160-letter-tile-possibilities) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0139-word-break) |
+| [0778-reorganize-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0778-reorganize-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1170-shortest-common-supersequence) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0778-reorganize-string) |
 | [1160-letter-tile-possibilities](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1160-letter-tile-possibilities) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -84,11 +87,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0075-sort-colors) |
+| [0778-reorganize-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0778-reorganize-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3771-select-k-disjoint-special-substrings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0778-reorganize-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Stack
 |  |
@@ -97,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0778-reorganize-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3771-select-k-disjoint-special-substrings) |
 ## Math
