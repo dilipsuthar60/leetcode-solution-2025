@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0543-diameter-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0543-diameter-of-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0543-diameter-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Divide and Conquer
