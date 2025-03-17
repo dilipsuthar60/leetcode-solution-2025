@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0075-sort-colors) |
 | [0139-word-break](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0139-word-break) |
+| [0713-subarray-product-less-than-k](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0713-subarray-product-less-than-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0713-subarray-product-less-than-k](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0713-subarray-product-less-than-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2478-longest-nice-subarray) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0713-subarray-product-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2690-house-robber-iv) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0713-subarray-product-less-than-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3643-zero-array-transformation-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3643-zero-array-transformation-ii) |
 ## Trie
