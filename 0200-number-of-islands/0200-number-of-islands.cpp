@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<pair<int,int>>direction={{-1,0},{1,0},{0,-1},{0,1}};
     void find(vector<vector<char>>&grid,int i,int j){
-        if(i<0||j<0||(i>=grid.size())||(j>=grid[0].size())||grid[i][j]=='0'){
+        if(i<0||j<0||i>=grid.size()||j>=grid[0].size()||grid[i][j]=='0'){
             return ;
         }
         grid[i][j]='0';
