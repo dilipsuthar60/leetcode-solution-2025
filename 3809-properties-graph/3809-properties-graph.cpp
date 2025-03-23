@@ -10,12 +10,13 @@ public:
         }
     }
     int intersectionCount(vector<int>&list1,vector<int>&list2){
-        bitset<101>b;
-        for(auto &it:list1) b[it]=1;
+        unordered_set<int>set1(list1.begin(),list1.end());
         int count=0;
-        for(auto &it:list2){
-            count+=b[it];
-            b[it]=0;
+        for(auto &element:list2){
+            if(set1.find(element)!=set1.end()){
+                count++;
+                set1.erase(element);
+            }
         }
         return count;
     }
@@ -30,7 +31,7 @@ public:
             }
         }
         int counter=0;
-        vector<bool>visited(102);
+        vector<bool>visited(103);
         for(int i=0;i<n;i++){
             if(!visited[i]){
                 dfs(i,visited);
