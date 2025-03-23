@@ -25,7 +25,7 @@ public:
             pq.pop();
             ll wt=temp.first;
             ll node=temp.second;
-            for(auto it:dp[node])
+            for(auto &it:dp[node])
             {
                 ll node1=it[0];
                 ll wt1=it[1];
