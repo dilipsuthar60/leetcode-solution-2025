@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2308-divide-array-into-equal-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0778-reorganize-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3771-select-k-disjoint-special-substrings) |
