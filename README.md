@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0139-word-break) |
 | [0768-partition-labels](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0778-reorganize-string) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1160-letter-tile-possibilities) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0543-diameter-of-binary-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0543-diameter-of-binary-tree) |
 | [0744-network-delay-time](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0744-network-delay-time) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0543-diameter-of-binary-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Divide and Conquer
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0200-number-of-islands) |
 | [0744-network-delay-time](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0744-network-delay-time) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2793-count-the-number-of-complete-components) |
