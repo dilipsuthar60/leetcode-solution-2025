@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2107-find-unique-binary-string) |
+| [2161-stock-price-fluctuation](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2161-stock-price-fluctuation) |
 | [2169-simple-bank-system](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2169-simple-bank-system) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2308-divide-array-into-equal-pairs) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0778-reorganize-string) |
+| [2161-stock-price-fluctuation](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2161-stock-price-fluctuation) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Stack
 |  |
@@ -350,9 +352,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [2161-stock-price-fluctuation](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2161-stock-price-fluctuation) |
 | [2169-simple-bank-system](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2169-simple-bank-system) |
 ## Randomized
 |  |
 | ------- |
 | [0912-random-pick-with-weight](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0912-random-pick-with-weight) |
+## Data Stream
+|  |
+| ------- |
+| [2161-stock-price-fluctuation](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2161-stock-price-fluctuation) |
+## Ordered Set
+|  |
+| ------- |
+| [2161-stock-price-fluctuation](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2161-stock-price-fluctuation) |
 <!---LeetCode Topics End-->
