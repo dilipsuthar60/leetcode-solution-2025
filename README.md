@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-random-pick-with-weight](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0912-random-pick-with-weight) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2383-add-two-integers](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2383-add-two-integers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2649-count-total-number-of-colored-cells) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2713-find-the-divisibility-array-of-a-string) |
