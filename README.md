@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0075-sort-colors) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0054-spiral-matrix) |
 | [2169-simple-bank-system](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2169-simple-bank-system) |
 | [2551-apply-operations-to-an-array](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2551-apply-operations-to-an-array) |
 ## Bit Manipulation
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0200-number-of-islands) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Topological Sort
