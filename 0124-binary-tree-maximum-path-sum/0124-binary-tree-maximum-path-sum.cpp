@@ -11,7 +11,26 @@
  */
 class Solution {
 public:
-    int maxPathSum(TreeNode* root) {
-        
+    int ans;
+    int find(TreeNode*root)
+    {
+        if(root==NULL)
+        {
+            return 0;
+        }
+        int l=find(root->left);
+        int r=find(root->right);
+        ans=max(ans,max(l,0)+max(r,0)+root->val);
+        return max({l,r,0})+root->val;
+    }
+    int maxPathSum(TreeNode* root)
+    {
+        if(root==NULL)
+        {
+            return 0;
+        }
+        ans=INT_MIN;
+        find(root);
+        return ans;
     }
 };
