@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0543-diameter-of-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0399-evaluate-division) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0543-diameter-of-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0055-jump-game) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0139-word-break) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1170-shortest-common-supersequence) |
