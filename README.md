@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0621-task-scheduler) |
 | [0713-subarray-product-less-than-k](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0713-subarray-product-less-than-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0912-random-pick-with-weight](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0912-random-pick-with-weight) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2107-find-unique-binary-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2107-find-unique-binary-string) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0912-random-pick-with-weight](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0912-random-pick-with-weight) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2610-closest-prime-numbers-in-range) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0713-subarray-product-less-than-k) |
+| [0912-random-pick-with-weight](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0912-random-pick-with-weight) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2690-house-robber-iv) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0713-subarray-product-less-than-k) |
+| [0912-random-pick-with-weight](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0912-random-pick-with-weight) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3639-zero-array-transformation-i) |
@@ -338,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2169-simple-bank-system) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
