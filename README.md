@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2713-find-the-divisibility-array-of-a-string) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0768-partition-labels) |
 | [1894-merge-strings-alternately](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1894-merge-strings-alternately) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Simulation
