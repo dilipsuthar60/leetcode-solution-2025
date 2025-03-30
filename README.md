@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0139-word-break) |
+| [0621-task-scheduler](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0778-reorganize-string) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0778-reorganize-string) |
 | [1160-letter-tile-possibilities](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1160-letter-tile-possibilities) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2308-divide-array-into-equal-pairs) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0075-sort-colors) |
 | [0139-word-break](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0200-number-of-islands) |
+| [0621-task-scheduler](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0621-task-scheduler) |
 | [0713-subarray-product-less-than-k](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0713-subarray-product-less-than-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0075-sort-colors) |
+| [0621-task-scheduler](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0778-reorganize-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0778-reorganize-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -144,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0055-jump-game) |
+| [0621-task-scheduler](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0778-reorganize-string) |
