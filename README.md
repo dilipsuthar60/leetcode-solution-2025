@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0146-lru-cache) |
 | [0621-task-scheduler](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0778-reorganize-string) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0146-lru-cache) |
 | [2161-stock-price-fluctuation](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2161-stock-price-fluctuation) |
 | [2169-simple-bank-system](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2169-simple-bank-system) |
 ## Randomized
@@ -366,4 +368,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-stock-price-fluctuation](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2161-stock-price-fluctuation) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
