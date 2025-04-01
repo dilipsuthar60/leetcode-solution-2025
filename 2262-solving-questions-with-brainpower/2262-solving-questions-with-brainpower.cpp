@@ -2,16 +2,9 @@ class Solution {
 public:
     long long mostPoints(vector<vector<int>>& questions) {
         int n=questions.size();
-        vector<long long>dp(n+1,0);
-        dp[n-1]=questions.back()[0];
-        for(int i=n-2;i>=0;i--){
-            dp[i]=dp[i+1];
-            if(i+questions[i][1]+1<n){
-                dp[i]=max(dp[i],questions[i][0]+dp[i+questions[i][1]+1]);
-            }
-            else{
-                dp[i]=max(dp[i],1ll*questions[i][0]);
-            }
+        vector<long long>dp(n+5,0);
+        for(int i=n-1;i>=0;i--){
+            dp[i]=max(dp[i+1],questions[i][0]+dp[min(n+1,i+questions[i][1]+1)]);
         }
         return *max_element(dp.begin(),dp.end());
     }
