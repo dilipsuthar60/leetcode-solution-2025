@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0368-largest-divisible-subset) |
 | [0399-evaluate-division](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0399-evaluate-division) |
 | [0406-queue-reconstruction-by-height](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0406-queue-reconstruction-by-height) |
+| [0416-partition-equal-subset-sum](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0416-partition-equal-subset-sum) |
 | [0621-task-scheduler](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0621-task-scheduler) |
 | [0713-subarray-product-less-than-k](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0713-subarray-product-less-than-k) |
 | [0777-toeplitz-matrix](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0777-toeplitz-matrix) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0139-word-break) |
 | [0368-largest-divisible-subset](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1170-shortest-common-supersequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
