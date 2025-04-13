@@ -4,7 +4,7 @@ public:
         unordered_set<int>twoNumberXor;
         unordered_set<int>threeNumberXor;
         int n=nums.size();
-        if(n==1||n==2) return n;
+        if(n<=2) return n;
         for(int i=0;i<n;i++){
             for(int j=i+1;j<n;j++){
                 twoNumberXor.insert(nums[i]^nums[j]);
