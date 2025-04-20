@@ -4,16 +4,11 @@ public:
         long long ans=0;
         int n=instructions.size();
         vector<bool>visited(n);
-        for(int i=0;i<n;){
+        int i=0;
+        while(i<n){
             if(i<0||i>=n||visited[i]) break;
             visited[i]=true;
-            if(instructions[i]=="jump"){
-                i+=(values[i]);
-            }
-            else{
-                ans+=values[i];
-                i++;
-            }
+            (instructions[i]=="jump")?i+=values[i]:(ans+=values[i],i++);
         }
         return ans;
     }
