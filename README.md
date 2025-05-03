@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3760-assign-elements-to-groups-with-constraints) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
 | ------- |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3643-zero-array-transformation-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3643-zero-array-transformation-ii) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2708-find-the-string-with-lcp](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2708-find-the-string-with-lcp) |
 | [2793-count-the-number-of-complete-components](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
