@@ -5,9 +5,7 @@
 Array.prototype.groupBy = function(fn) {
     return this.reduce((groupItem, item)=>{
         const key = fn(item);
-        if(!groupItem[key]){
-            groupItem[key] = []
-        }
+        groupItem[key]||=[]
         groupItem[key].push(item);
         return groupItem;
     }, {})
