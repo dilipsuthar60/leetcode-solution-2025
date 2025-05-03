@@ -3,6 +3,7 @@
  * @return {Object}
  */
 Array.prototype.groupBy = function(fn) {
+    // this => its point to current object
     return this.reduce((groupItem, item)=>{
         const key = fn(item);
         groupItem[key]||=[]
