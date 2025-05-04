@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3738-make-array-non-decreasing](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3738-make-array-non-decreasing) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3760-assign-elements-to-groups-with-constraints) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Sorting
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3001-apply-operations-to-maximize-score) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+| [3738-make-array-non-decreasing](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3738-make-array-non-decreasing) |
 ## Greedy
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2708-find-the-string-with-lcp](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2708-find-the-string-with-lcp) |
 | [3001-apply-operations-to-maximize-score](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3001-apply-operations-to-maximize-score) |
+| [3738-make-array-non-decreasing](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3738-make-array-non-decreasing) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3771-select-k-disjoint-special-substrings) |
 ## Math
 |  |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0042-trapping-rain-water) |
 | [3001-apply-operations-to-maximize-score](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3001-apply-operations-to-maximize-score) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+| [3738-make-array-non-decreasing](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3738-make-array-non-decreasing) |
 ## Design
 |  |
 | ------- |
