@@ -20,52 +20,6 @@ public:
             }
         }
     }
-    // string get(vector<int>&v)
-    // {
-    //     string s;
-    //     for(int i=0;i<v.size();i++)
-    //     {
-    //         s.push_back(char(v[i]+'0'));
-    //     }
-    //     return s;
-    // }
-    // bool check(string &p,string &s)
-    // {
-    //     if(p.size()==0)
-    //     {
-    //         return true;
-    //     }
-    //     for(int i=0;i<p.size();i++)
-    //     {
-    //         if(p[i]==s[i])
-    //         {
-    //             return false;
-    //         }
-    //     }
-    //     return true;
-    // }
-    // long long find(int n,int index,string prev)
-    // {
-    //     if(n==index)
-    //     {
-    //         return 1;
-    //     }
-    //     string hash=to_string(index)+"#"+prev;
-    //     if(dp.find(hash)!=dp.end())
-    //     {
-    //         return dp[hash]%mod;
-    //     }
-    //     long long ans=0;
-    //     for(auto &it:result)
-    //     {
-    //         string curr=get(it);
-    //         if(check(prev,curr))
-    //         {
-    //             ans+=find(n,index+1,curr);
-    //         }
-    //     }
-    //     return dp[hash] =ans%mod;
-    // }
     long long find(vector<vector<int>>&result,int curr,int index,int &n)
     {
         if(index==n)
