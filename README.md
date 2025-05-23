@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3001-apply-operations-to-maximize-score) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2708-find-the-string-with-lcp](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2708-find-the-string-with-lcp) |
 | [3001-apply-operations-to-maximize-score](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3738-make-array-non-decreasing](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3738-make-array-non-decreasing) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3771-select-k-disjoint-special-substrings) |
 ## Math
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-time-needed-to-inform-all-employees](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2708-find-the-string-with-lcp](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2708-find-the-string-with-lcp) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3771-select-k-disjoint-special-substrings) |
 ## Sliding Window
@@ -381,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2478-longest-nice-subarray) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Number Theory
