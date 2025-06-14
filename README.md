@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2708-find-the-string-with-lcp](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2708-find-the-string-with-lcp) |
 | [3001-apply-operations-to-maximize-score](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2383-add-two-integers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2649-count-total-number-of-colored-cells) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2998-count-symmetric-integers](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3001-apply-operations-to-maximize-score) |
