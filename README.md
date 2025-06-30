@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3819-count-covered-buildings](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3819-count-covered-buildings) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3913-partition-array-to-minimize-xor](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3913-partition-array-to-minimize-xor) |
 ## Sorting
 |  |
 | ------- |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3771-select-k-disjoint-special-substrings) |
+| [3913-partition-array-to-minimize-xor](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3913-partition-array-to-minimize-xor) |
 ## Sliding Window
 |  |
 | ------- |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3913-partition-array-to-minimize-xor](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3913-partition-array-to-minimize-xor) |
 ## Number Theory
 |  |
 | ------- |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3643-zero-array-transformation-ii) |
+| [3913-partition-array-to-minimize-xor](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3913-partition-array-to-minimize-xor) |
 ## Trie
 |  |
 | ------- |
