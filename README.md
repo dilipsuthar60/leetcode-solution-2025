@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1447-jump-game-iv](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1447-jump-game-iv) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1813-maximum-erasure-value) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1293-three-consecutive-odds) |
+| [1447-jump-game-iv](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1447-jump-game-iv) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1656-count-good-triplets) |
 | [1813-maximum-erasure-value](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1813-maximum-erasure-value) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0744-network-delay-time) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1447-jump-game-iv](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1447-jump-game-iv) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2793-count-the-number-of-complete-components) |
