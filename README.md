@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3760-assign-elements-to-groups-with-constraints) |
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3819-count-covered-buildings](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3819-count-covered-buildings) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3913-partition-array-to-minimize-xor](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3913-partition-array-to-minimize-xor) |
 ## Sorting
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2793-count-the-number-of-complete-components) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-time-needed-to-inform-all-employees](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2793-count-the-number-of-complete-components) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Graph
 |  |
 | ------- |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2708-find-the-string-with-lcp](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2708-find-the-string-with-lcp) |
 | [2793-count-the-number-of-complete-components](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
@@ -517,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0777-toeplitz-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2708-find-the-string-with-lcp](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2708-find-the-string-with-lcp) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Topological Sort
 |  |
 | ------- |
