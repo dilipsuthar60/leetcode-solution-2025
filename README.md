@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3001-apply-operations-to-maximize-score) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3430-count-days-without-meetings) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3001-apply-operations-to-maximize-score) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3548-find-the-count-of-good-integers) |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2998-count-symmetric-integers](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2998-count-symmetric-integers) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3548-find-the-count-of-good-integers) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Queue
@@ -628,4 +632,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2050-count-good-numbers) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
