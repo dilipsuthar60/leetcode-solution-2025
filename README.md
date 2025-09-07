@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3738-make-array-non-decreasing](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3738-make-array-non-decreasing) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3748-sort-matrix-by-diagonals) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3760-assign-elements-to-groups-with-constraints) |
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3738-make-array-non-decreasing](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3738-make-array-non-decreasing) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3771-select-k-disjoint-special-substrings) |
 ## Math
 |  |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Two Pointers
 |  |
 | ------- |
