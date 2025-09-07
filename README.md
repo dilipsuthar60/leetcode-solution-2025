@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1293-three-consecutive-odds) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1447-jump-game-iv](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1447-jump-game-iv) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1628-count-submatrices-with-all-ones) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0900-reordered-power-of-2) |
 | [0912-random-pick-with-weight](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0912-random-pick-with-weight) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2050-count-good-numbers) |
