@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3760-assign-elements-to-groups-with-constraints) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3771-select-k-disjoint-special-substrings) |
 | [3819-count-covered-buildings](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3819-count-covered-buildings) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3771-select-k-disjoint-special-substrings) |
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3931-process-string-with-special-operations-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3931-process-string-with-special-operations-i) |
 ## Backtracking
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
 | ------- |
