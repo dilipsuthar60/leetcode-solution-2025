@@ -1,8 +1,6 @@
 class Solution {
 public:
-    int find(string &s, string &p){
-        vector<bool>visited(26);
-        for(auto &it:p) visited[it-'a']=true;
+    int find(string &s, vector<bool>&visited){
         for(auto &it:s){
             if(visited[it-'a']) return false;
         }
@@ -12,8 +10,12 @@ public:
         istringstream ss(text);
         string current="";
         int count=0;
+
+        vector<bool>visited(26);
+        for(auto &it: brokenLetters) visited[it-'a']=true;
+
         while(ss>>current){
-            count+=find(current, brokenLetters);
+            count+=find(current, visited);
         }
         return count;
     }
