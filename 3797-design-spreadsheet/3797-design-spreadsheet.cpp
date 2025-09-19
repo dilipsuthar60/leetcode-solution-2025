@@ -2,7 +2,7 @@ class Spreadsheet {
 public:
     unordered_map<string,int>mp;
     Spreadsheet(int rows) {
-        
+        mp.clear();
     }
     
     void setCell(string cell, int value) {
