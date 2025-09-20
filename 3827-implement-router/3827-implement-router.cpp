@@ -1,45 +1,52 @@
 class Router {
 public:
+    deque<string>dq;
+    unordered_map<string,vector<int>>mp;
+    unordered_map<int,vector<int>>destinationMap;
     int limit;
-    set<vector<int>>s;
-    deque<vector<int>>dq;
-    unordered_map<int,vector<int>>mp;
-    unordered_map<int,int>remove;
     Router(int memoryLimit) {
-      limit=memoryLimit;
+        this->limit=memoryLimit;
     }
-    
+
+    string hashKey(int a, int b, int c){
+        return to_string(a)+"#"+to_string(b)+"#"+to_string(c);
+    }
+
     bool addPacket(int source, int destination, int timestamp) {
-        vector<int>nums={source, destination,timestamp};
-        if(s.find(nums)!=s.end()) return false;
-        dq.push_back(nums);
-        mp[destination].push_back(timestamp);
-        s.insert(nums);
+        string key=hashKey(source, destination, timestamp);
+        if(mp.find(key)!=mp.end()) return false;
+        dq.push_back(key);
+        mp[key]={source, destination, timestamp};
+        destinationMap[destination].push_back(timestamp);
         if(dq.size()>limit){
-            auto nums=dq.front();
-            dq.pop_front();
-            remove[nums[1]]++;
-            s.erase(nums);
+            forwardPacket();
         }
         return true;
     }
     
     vector<int> forwardPacket() {
-        if(dq.empty()) return {};
-        auto nums=dq.front();
-        remove[nums[1]]++;
+        if(!dq.size()) return {};
+        string key=dq.front();
         dq.pop_front();
-        s.erase(nums);
-        return nums;
+        vector<int>temp=mp[key];
+        mp.erase(key);
+        destinationMap[temp[1]].erase(destinationMap[temp[1]].begin());
+        return temp;
     }
     
     int getCount(int destination, int startTime, int endTime) {
-        if(mp.find(destination)==mp.end()){
-            return 0;
-        }
-        auto &nums=mp[destination];
-        int l=lower_bound(nums.begin(),nums.end(), startTime)-nums.begin();
-        int r=upper_bound(nums.begin(),nums.end(), endTime)-nums.begin();
-        return max(0,r-max(l,remove[destination]));
+        if(destinationMap.find(destination)==destinationMap.end()) return 0;
+        auto &it=destinationMap[destination];
+        int i=lower_bound(it.begin(),it.end(), startTime)-it.begin();
+        int j=upper_bound(it.begin(),it.end(), endTime)-it.begin();
+        return j-i;
     }
 };
+
+/**
+ * Your Router object will be instantiated and called as such:
+ * Router* obj = new Router(memoryLimit);
+ * bool param_1 = obj->addPacket(source,destination,timestamp);
+ * vector<int> param_2 = obj->forwardPacket();
+ * int param_3 = obj->getCount(destination,startTime,endTime);
+ */
