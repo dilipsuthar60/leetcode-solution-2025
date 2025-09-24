@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0146-lru-cache) |
+| [0166-fraction-to-recurring-decimal](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0166-fraction-to-recurring-decimal) |
 | [0594-longest-harmonious-subsequence](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0768-partition-labels) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0166-fraction-to-recurring-decimal) |
 | [0399-evaluate-division](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0399-evaluate-division) |
 | [0680-valid-palindrome-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0768-partition-labels) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0166-fraction-to-recurring-decimal) |
 | [0368-largest-divisible-subset](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0900-reordered-power-of-2) |
