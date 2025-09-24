@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3430-count-days-without-meetings](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3594-identify-the-largest-outlier-in-an-array) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-stock-price-fluctuation](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2161-stock-price-fluctuation) |
 | [2429-design-a-food-rating-system](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2429-design-a-food-rating-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3678-design-task-manager](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3678-design-task-manager) |
 ## Stack
 |  |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Dynamic Programming
 |  |
@@ -606,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0744-network-delay-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 ## Monotonic Stack
 |  |
 | ------- |
