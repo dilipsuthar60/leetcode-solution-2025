@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-sort-matrix-by-diagonals](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3748-sort-matrix-by-diagonals) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3771-select-k-disjoint-special-substrings) |
 | [3819-count-covered-buildings](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3819-count-covered-buildings) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3643-zero-array-transformation-ii) |
 | [3827-implement-router](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3827-implement-router) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -581,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Matrix
 |  |
 | ------- |
