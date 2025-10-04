@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0037-sudoku-solver) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0135-candy) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0075-sort-colors) |
