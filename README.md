@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0621-task-scheduler) |
 | [0713-subarray-product-less-than-k](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0713-subarray-product-less-than-k) |
 | [0777-toeplitz-matrix](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0777-toeplitz-matrix) |
+| [0794-swim-in-rising-water](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0797-rabbits-in-forest) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0830-largest-triangle-area](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0830-largest-triangle-area) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0778-reorganize-string) |
+| [0794-swim-in-rising-water](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0794-swim-in-rising-water) |
 | [2161-stock-price-fluctuation](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2161-stock-price-fluctuation) |
 | [2429-design-a-food-rating-system](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2429-design-a-food-rating-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0543-diameter-of-binary-tree) |
 | [0744-network-delay-time](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0794-swim-in-rising-water) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0417-pacific-atlantic-water-flow) |
 | [0744-network-delay-time](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0794-swim-in-rising-water) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1447-jump-game-iv](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1447-jump-game-iv) |
@@ -539,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0074-search-a-2d-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0713-subarray-product-less-than-k) |
+| [0794-swim-in-rising-water](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0794-swim-in-rising-water) |
 | [0912-random-pick-with-weight](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0912-random-pick-with-weight) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1946-minimum-absolute-sum-difference](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1946-minimum-absolute-sum-difference) |
@@ -596,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0399-evaluate-division) |
+| [0794-swim-in-rising-water](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0794-swim-in-rising-water) |
 | [2708-find-the-string-with-lcp](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2708-find-the-string-with-lcp) |
 | [2793-count-the-number-of-complete-components](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -613,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0417-pacific-atlantic-water-flow) |
 | [0777-toeplitz-matrix](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0777-toeplitz-matrix) |
+| [0794-swim-in-rising-water](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0794-swim-in-rising-water) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1628-count-submatrices-with-all-ones) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
