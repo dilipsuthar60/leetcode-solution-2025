@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1447-jump-game-iv](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1447-jump-game-iv) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1612-avoid-flood-in-the-city](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1612-avoid-flood-in-the-city) |
 | [1813-maximum-erasure-value](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1813-maximum-erasure-value) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1447-jump-game-iv](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1447-jump-game-iv) |
+| [1612-avoid-flood-in-the-city](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1628-count-submatrices-with-all-ones) |
 | [1656-count-good-triplets](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1656-count-good-triplets) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0778-reorganize-string) |
 | [0794-swim-in-rising-water](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1612-avoid-flood-in-the-city) |
 | [2161-stock-price-fluctuation](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2161-stock-price-fluctuation) |
 | [2429-design-a-food-rating-system](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2429-design-a-food-rating-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1612-avoid-flood-in-the-city](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1612-avoid-flood-in-the-city) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -545,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0713-subarray-product-less-than-k) |
 | [0794-swim-in-rising-water](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0794-swim-in-rising-water) |
 | [0912-random-pick-with-weight](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0912-random-pick-with-weight) |
+| [1612-avoid-flood-in-the-city](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1946-minimum-absolute-sum-difference](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1946-minimum-absolute-sum-difference) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2394-count-subarrays-with-score-less-than-k) |
