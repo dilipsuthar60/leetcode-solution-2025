@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2429-design-a-food-rating-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2480-find-subarrays-with-equal-sum) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2708-find-the-string-with-lcp](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2708-find-the-string-with-lcp) |
 | [3001-apply-operations-to-maximize-score](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3001-apply-operations-to-maximize-score) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2649-count-total-number-of-colored-cells) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2998-count-symmetric-integers](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2998-count-symmetric-integers) |
