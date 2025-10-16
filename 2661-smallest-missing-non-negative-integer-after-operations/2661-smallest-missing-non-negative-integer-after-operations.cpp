@@ -6,8 +6,7 @@ public:
             mp[(it%value+value)%value]++;
         }
         int counter=0;
-        while(mp[counter%value]>0){
-            mp[counter%value]--;
+        while(mp[counter%value]-->0){
             counter++;
         }
         return counter;
