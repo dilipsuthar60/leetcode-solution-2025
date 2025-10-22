@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3639-zero-array-transformation-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3639-zero-array-transformation-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3748-sort-matrix-by-diagonals) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3771-select-k-disjoint-special-substrings) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Two Pointers
 |  |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3643-zero-array-transformation-ii) |
 | [3827-implement-router](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3827-implement-router) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3838-path-existence-queries-in-a-graph-i) |
@@ -591,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3639-zero-array-transformation-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3643-zero-array-transformation-ii) |
 | [3913-partition-array-to-minimize-xor](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3913-partition-array-to-minimize-xor) |
 ## Trie
