@@ -20,7 +20,6 @@ public:
                 int value=(first+second)%10;
                 st+=to_string(value);
             }
-            cout<<st<<endl;
             if(isAllDigitsSame(st)){
                 return true;
             }
