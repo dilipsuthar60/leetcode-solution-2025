@@ -13,17 +13,16 @@ public:
             return true;
         }
         while(s.size()>2){
-            string st="";
             for(int i=1;i<s.size();i++){
                 int first=(s[i-1]-'0');
                 int second=(s[i]-'0');
                 int value=(first+second)%10;
-                st+=to_string(value);
+                s[i-1]=char(value+'0');
             }
-            if(isAllDigitsSame(st)){
+            s.pop_back();
+            if(isAllDigitsSame(s)){
                 return true;
             }
-            s=st;
         }
         return false;
     }
