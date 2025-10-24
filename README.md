@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0337-house-robber-iii) |
 | [0368-largest-divisible-subset](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0416-partition-equal-subset-sum) |
+| [0576-out-of-boundary-paths](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0576-out-of-boundary-paths) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1170-shortest-common-supersequence](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1170-shortest-common-supersequence) |
