@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3819-count-covered-buildings](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3819-count-covered-buildings) |
 | [3827-implement-router](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4056-longest-balanced-substring-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/4056-longest-balanced-substring-ii) |
 ## String
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3931-process-string-with-special-operations-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3931-process-string-with-special-operations-i) |
+| [4056-longest-balanced-substring-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/4056-longest-balanced-substring-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3643-zero-array-transformation-ii) |
 | [3913-partition-array-to-minimize-xor](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3913-partition-array-to-minimize-xor) |
+| [4056-longest-balanced-substring-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/4056-longest-balanced-substring-ii) |
 ## Trie
 |  |
 | ------- |
