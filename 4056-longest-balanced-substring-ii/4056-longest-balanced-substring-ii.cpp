@@ -41,9 +41,9 @@ public:
     }
     int cal3(string &s){
         int n=s.size(), ans=0;
-        map<pair<int,int>,int>mp;
+        unordered_map<string,int>mp;
         int a=0,b=0,c=0;
-        mp[{0,0}]=-1;
+        mp[to_string(0)+"#"+to_string(0)]=-1;
         for(int i=0;i<n;i++){
             if(s[i]=='a'){
                 a++;
@@ -54,11 +54,12 @@ public:
             else {
                 c++;
             }
-            if(mp.find({a-b,c-b})!=mp.end()){
-                ans=max(ans,i-mp[{a-b, c-b}]);
+            string hash=to_string(a-b)+"#"+to_string(c-b);
+            if(mp.find(hash)!=mp.end()){
+                ans=max(ans,i-mp[hash]);
             }
             else{
-                mp[{a-b, c-b}]=i;
+                mp[hash]=i;
             }
         }
         return ans;
