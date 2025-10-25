@@ -7,7 +7,6 @@ public:
                 startPoint++;
                 start=startPoint;
             }
-            cout<<start<<".   ";
             amount+=start;
             start++;
         }
