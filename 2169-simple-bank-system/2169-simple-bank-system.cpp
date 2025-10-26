@@ -1,36 +1,32 @@
 class Bank {
 public:
-    unordered_map<int,long long>mp;
-    int size;
+    vector<long long>accounts;
     Bank(vector<long long>& balance) {
-        size=balance.size();
-        for(int i=0;i<balance.size();i++){
-            mp[i+1]=balance[i];
+        for(auto &current:balance){
+            accounts.push_back(current);
         }
     }
-    bool isAccountSafe(int id){
-        return id>=1&&id<=size;
-    }
+    
     bool transfer(int account1, int account2, long long money) {
-        if(isAccountSafe(account1)&&isAccountSafe(account2)&&mp[account1]>=money){
-            mp[account1]-=money;
-            mp[account2]+=money;
+        if(account1<=accounts.size() &&account2<=accounts.size() &&accounts[account1-1]>=money){
+            accounts[account1-1]-=money;
+            accounts[account2-1]+=money;
             return true;
         }
         return false;
     }
     
     bool deposit(int account, long long money) {
-        if(isAccountSafe(account)){
-            mp[account]+=money;
+        if(account<=accounts.size()){
+            accounts[account-1]+=money;
             return true;
         }
         return false;
     }
     
     bool withdraw(int account, long long money) {
-        if(isAccountSafe(account)&&mp[account]>=money){
-            mp[account]-=money;
+        if(account<=accounts.size() && accounts[account-1]>=money){
+            accounts[account-1]-=money;
             return true;
         }
         return false;
