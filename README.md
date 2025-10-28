@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0042-trapping-rain-water) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0337-house-robber-iii) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0200-number-of-islands) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0337-house-robber-iii) |
@@ -737,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0146-lru-cache) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Doubly-Linked List
