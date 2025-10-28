@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3639-zero-array-transformation-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3639-zero-array-transformation-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3643-zero-array-transformation-ii) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2551-apply-operations-to-an-array](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2551-apply-operations-to-an-array) |
 | [3336-water-bottles-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3336-water-bottles-ii) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3931-process-string-with-special-operations-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3931-process-string-with-special-operations-i) |
 ## Bit Manipulation
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3639-zero-array-transformation-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3639-zero-array-transformation-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3643-zero-array-transformation-ii) |
