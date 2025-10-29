@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3827-implement-router](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3827-implement-router) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3913-partition-array-to-minimize-xor](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3913-partition-array-to-minimize-xor) |
+| [3944-minimum-time-to-activate-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3944-minimum-time-to-activate-string) |
 ## Sorting
 |  |
 | ------- |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3827-implement-router](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3827-implement-router) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3908-minimum-time-for-k-connected-components) |
+| [3944-minimum-time-to-activate-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3944-minimum-time-to-activate-string) |
 ## Prefix Sum
 |  |
 | ------- |
