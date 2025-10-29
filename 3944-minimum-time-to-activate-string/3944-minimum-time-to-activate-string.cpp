@@ -1,14 +1,15 @@
 class Solution {
 public:
-    bool find(string s, vector<int>&order, int time, int k){
+    bool find(string &s, vector<int>&order, int time, int k){
         int n=s.size();
+        vector<bool>isStar(n);
         for(int i=0;i<=time;i++){
-            s[order[i]]='*';
+            isStar[order[i]]= true;
         }
         long totalSubstring=1ll*n*(n+1)/2;
         long invaildSubstring=0, len=0;
         for(int i=0;i<n;i++){
-            if(s[i]=='*'){
+            if(isStar[i]){
                 invaildSubstring+=(len*(len+1)/2);
                 len=0;
             }
