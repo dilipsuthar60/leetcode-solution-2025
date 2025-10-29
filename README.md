@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3336-water-bottles-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Tree
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3913-partition-array-to-minimize-xor](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3913-partition-array-to-minimize-xor) |
 ## Number Theory
 |  |
