@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0166-fraction-to-recurring-decimal) |
 | [0368-largest-divisible-subset](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0797-rabbits-in-forest) |
