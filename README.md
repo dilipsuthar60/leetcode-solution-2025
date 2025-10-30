@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0166-fraction-to-recurring-decimal) |
+| [0365-water-and-jug-problem](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0830-largest-triangle-area) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0200-number-of-islands) |
 | [0337-house-robber-iii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0337-house-robber-iii) |
+| [0365-water-and-jug-problem](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0365-water-and-jug-problem) |
 | [0386-lexicographical-numbers](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0417-pacific-atlantic-water-flow) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0200-number-of-islands) |
+| [0365-water-and-jug-problem](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0417-pacific-atlantic-water-flow) |
