@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3678-design-task-manager) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3639-zero-array-transformation-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3639-zero-array-transformation-i) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2429-design-a-food-rating-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3678-design-task-manager) |
 ## Stack
 |  |
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Two Pointers
