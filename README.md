@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2690-house-robber-iv) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2708-find-the-string-with-lcp](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2708-find-the-string-with-lcp) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2665-minimum-time-to-repair-cars](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -649,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-random-pick-with-weight](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0912-random-pick-with-weight) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3639-zero-array-transformation-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3639-zero-array-transformation-i) |
@@ -682,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3827-implement-router](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3827-implement-router) |
 ## Union Find
