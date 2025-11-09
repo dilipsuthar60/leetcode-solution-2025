@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2288-count-operations-to-obtain-zero](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2383-add-two-integers](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2383-add-two-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0054-spiral-matrix) |
 | [2169-simple-bank-system](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2288-count-operations-to-obtain-zero](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2288-count-operations-to-obtain-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2551-apply-operations-to-an-array) |
 | [3336-water-bottles-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3336-water-bottles-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3616-make-array-elements-equal-to-zero) |
