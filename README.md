@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1946-minimum-absolute-sum-difference](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1946-minimum-absolute-sum-difference) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2058-concatenation-of-array](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0054-spiral-matrix) |
+| [2058-concatenation-of-array](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2058-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2288-count-operations-to-obtain-zero) |
