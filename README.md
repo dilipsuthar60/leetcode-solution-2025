@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1447-jump-game-iv](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1447-jump-game-iv) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1580-shuffle-the-array](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1580-shuffle-the-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
