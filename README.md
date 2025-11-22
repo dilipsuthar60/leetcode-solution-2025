@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3913-partition-array-to-minimize-xor](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3913-partition-array-to-minimize-xor) |
 | [3944-minimum-time-to-activate-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3944-minimum-time-to-activate-string) |
+| [3986-maximum-path-score-in-a-grid](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3986-maximum-path-score-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3771-select-k-disjoint-special-substrings) |
 | [3913-partition-array-to-minimize-xor](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3913-partition-array-to-minimize-xor) |
+| [3986-maximum-path-score-in-a-grid](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3986-maximum-path-score-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-sort-matrix-by-diagonals](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3797-design-spreadsheet) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+| [3986-maximum-path-score-in-a-grid](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3986-maximum-path-score-in-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
