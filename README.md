@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0056-merge-intervals) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0215-kth-largest-element-in-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Breadth-First Search
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
