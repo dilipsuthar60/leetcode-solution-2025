@@ -12,11 +12,10 @@ public:
         unordered_map<int,int>mp;
         int ans=1e9,n=nums.size();
         for(int i=0;i<n;i++){
-            int rev=reverse(nums[i]);
             if(mp.find(nums[i])!=mp.end()){
                 ans=min(ans,abs(i-mp[nums[i]]));
             }
-            mp[rev]=i;
+            mp[reverse(nums[i])]=i;
         }
         return ans==1e9?-1:ans;
     }
