@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3430-count-days-without-meetings](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3430-count-days-without-meetings) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3430-count-days-without-meetings) |
+| [3433-count-mentions-per-user](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3606-coupon-code-validator) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3433-count-mentions-per-user) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3548-find-the-count-of-good-integers) |
@@ -647,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2288-count-operations-to-obtain-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2551-apply-operations-to-an-array) |
 | [3336-water-bottles-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3336-water-bottles-ii) |
+| [3433-count-mentions-per-user](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3433-count-mentions-per-user) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3931-process-string-with-special-operations-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3931-process-string-with-special-operations-i) |
