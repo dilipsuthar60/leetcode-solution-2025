@@ -5,7 +5,7 @@ public:
         istringstream ss(event[2]);
         string token;
         int timeStamp=stoi(event[1]);
-        while(ss>>token){
+        while(getline(ss, token, ' ')){
             ids.push_back(token);
         }
         for(auto &id: ids){
