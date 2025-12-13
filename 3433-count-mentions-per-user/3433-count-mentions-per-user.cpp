@@ -16,7 +16,7 @@ public:
             }
             else if(id=="HERE"){
                 for(int i=0;i<mentionUser.size();i++){
-                    if(offine[i]==0|| (offine[i]+60)<=timeStamp){
+                    if(offine[i]==0|| offine[i]<=timeStamp){
                         mentionUser[i]++;
                     }
                 }
@@ -43,7 +43,7 @@ public:
                 applyMessaageEvent(event, offine, mentionUser);
             }
             else{
-                offine[stoi(event[2])]=stoi(event[1]);
+                offine[stoi(event[2])]=stoi(event[1])+60;
             }
         }
         return mentionUser;
