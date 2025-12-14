@@ -4,7 +4,7 @@ public:
     const int mod=1e9+7;
     int find(string &s, int index, int seatCounter){
         if(index>=s.size()){
-            return seatCounter==2?1:0;
+            return seatCounter>=2?1:0;
         }
         if(cache[index][seatCounter]!=-1){
             return cache[index][seatCounter]%mod;
