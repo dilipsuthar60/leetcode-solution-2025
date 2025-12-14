@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1894-merge-strings-alternately) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2107-find-unique-binary-string) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2050-count-good-numbers) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2288-count-operations-to-obtain-zero) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2262-solving-questions-with-brainpower](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2262-solving-questions-with-brainpower) |
 | [2708-find-the-string-with-lcp](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/2708-find-the-string-with-lcp) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
