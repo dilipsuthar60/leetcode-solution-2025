@@ -1,13 +1,13 @@
 class Solution {
 public:
-    int dp[100005][3];
+    int cache[100005][3];
     const int mod=1e9+7;
     int find(string &s, int index, int seatCounter){
         if(index>=s.size()){
             return seatCounter==2?1:0;
         }
-        if(dp[index][seatCounter]!=-1){
-            return dp[index][seatCounter]%mod;
+        if(cache[index][seatCounter]!=-1){
+            return cache[index][seatCounter]%mod;
         }
         long long ans=0;
         if(seatCounter>=2){
@@ -26,10 +26,10 @@ public:
                 ans+=find(s,index+1, seatCounter);
             }
         }
-        return dp[index][seatCounter]= ans%mod;
+        return cache[index][seatCounter]= ans%mod;
     }
     int numberOfWays(string corridor) {
-        memset(dp,-1,sizeof(dp));
+        memset(cache,-1,sizeof(cache));
         return find(corridor, 0, 0);
     }
 };
