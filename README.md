@@ -485,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0543-diameter-of-binary-tree) |
+| [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0543-diameter-of-binary-tree) |
+| [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
 | [0744-network-delay-time](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0794-swim-in-rising-water) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0543-diameter-of-binary-tree) |
+| [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/dilipsuthar60/leetcode-solution-2025/tree/master/1093-recover-a-tree-from-preorder-traversal) |
